@@ -4,9 +4,9 @@ export default [
 
     {
 
-        channelId: "1344059457747026005",
+        channelId: "1371597787740766278",
 
-        serverId: "1344059457046319198",
+        serverId: "766953289409232896",
 
         token: process.env.token1,
 
